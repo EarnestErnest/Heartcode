@@ -1,0 +1,5 @@
+colony_list =[9,1,4]
+# find weight of each gen
+print(sum(colony_list))
+# find signature, acct 2 scenarios [i] >[i+1] or [i]<[i+1]
+# add tgt and create new gen * ordering
